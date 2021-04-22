@@ -6,7 +6,7 @@ You can find me on LinkedIn - https://www.linkedin.com/in/flavioepimentel/
 
 ## 💻 Technologies 
 
-📈
+
 Some of technologies that I've been work with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
