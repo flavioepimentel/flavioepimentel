@@ -10,7 +10,7 @@
 ## 💻 Technologies 
 
 
-Some of technologies that I've been work with:
+Some technologies that I've been work with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity)
