@@ -4,7 +4,7 @@
 You can find me on LinkedIn - https://www.linkedin.com/in/flavioepimentel/
 🧑‍🚀
 
-💻 Technologies 
+## 💻 Technologies 
 
 📈
 Some of technologies that I've been work with:
