@@ -1,7 +1,10 @@
 # flavioepimentel
 
 👨‍💻
-You can find me on LinkedIn - https://www.linkedin.com/in/flavioepimentel/
+You can find me on 
+![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)
+![Twitter]
+![StackOverFlow]()
 🧑‍🚀
 
 ## 💻 Technologies 
@@ -24,4 +27,5 @@ Some of technologies that I've been work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
