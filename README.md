@@ -3,7 +3,7 @@
 👨‍💻
 # You can find me on.
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)](https://www.linkedin.com/in/flavioepimentel/)
-[![Twitter](https://img.shields.io/twitter/follow/jose_rf_junior?style=social)](https://twitter.com/FlvioEPimentel1)
+[![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
 [![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-F58025?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13225444/ericksan-pimentel?tab=profile)
 
 
