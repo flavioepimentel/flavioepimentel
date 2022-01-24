@@ -29,7 +29,7 @@ Some of the technologies that I've been working with:
 
 👨‍🎓 Production Engineer Degree.
   
-Free-time
+#### Free-time
 
 🎸 Love play my guitar 
 
