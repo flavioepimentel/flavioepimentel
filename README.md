@@ -8,7 +8,7 @@
 
 
 
-# 💻 Technologies 
+## 💻 Technologies 
 
 Some of the technologies that I've been working with:
 
@@ -30,7 +30,7 @@ Some of the technologies that I've been working with:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
 
-#  🧑 About Me
+##  🧑 About Me
 
 🕵️‍♂️ I consider myself a curious and questioning person and always keep curious.
 
@@ -44,7 +44,7 @@ Free-time
 
 👾  And PLAY vídeo games, of course.
 
-## You can find me on.
+### You can find me on.
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)](https://www.linkedin.com/in/flavioepimentel/)
 [![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
 [![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-F58025?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13225444/ericksan-pimentel?tab=profile)
