@@ -30,6 +30,17 @@ Some of the technologies that I've been working with:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
 
+#  🧑 About Me
+
+🕵️‍♂️ I consider myself a curious and questioning person and always keep curious.
+👨‍🎓 Production Engineer Degree.
+  
+Free-time
+
+🎸 Love play my guitar 
+🏃🏻  Do som outdoor exercise
+👾  And PLAY vídeo games, of course.
+
 ## You can find me on.
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)](https://www.linkedin.com/in/flavioepimentel/)
 [![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
