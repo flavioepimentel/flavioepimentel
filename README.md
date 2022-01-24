@@ -31,3 +31,4 @@ Some of the technologies that I've been working with:
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&show_icons=true)
