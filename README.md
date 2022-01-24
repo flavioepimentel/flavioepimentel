@@ -6,6 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
 [![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-F58025?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13225444/ericksan-pimentel?tab=profile)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&show_icons=true)
 
 ## 💻 Technologies 
 
@@ -31,4 +32,4 @@ Some of the technologies that I've been working with:
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&show_icons=true)
+
