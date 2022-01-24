@@ -33,12 +33,15 @@ Some of the technologies that I've been working with:
 #  🧑 About Me
 
 🕵️‍♂️ I consider myself a curious and questioning person and always keep curious.
+
 👨‍🎓 Production Engineer Degree.
   
 Free-time
 
 🎸 Love play my guitar 
+
 🏃🏻  Do som outdoor exercise
+
 👾  And PLAY vídeo games, of course.
 
 ## You can find me on.
