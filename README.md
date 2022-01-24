@@ -4,16 +4,11 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&show_icons=true)
 
-# You can find me on.
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)](https://www.linkedin.com/in/flavioepimentel/)
-[![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
-[![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-F58025?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13225444/ericksan-pimentel?tab=profile)
+
 
 
 
 ## 💻 Technologies 
-
-
 
 Some of the technologies that I've been working with:
 
@@ -33,6 +28,9 @@ Some of the technologies that I've been working with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
 
+### You can find me on.
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioepimentel/)](https://www.linkedin.com/in/flavioepimentel/)
+[![Twitter](https://img.shields.io/twitter/follow/FlvioEPimentel1?style=social)](https://twitter.com/FlvioEPimentel1)
+[![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-F58025?style=flat-square&logo=StackOverFlow&logoColor=white)](https://stackoverflow.com/users/13225444/ericksan-pimentel?tab=profile)
