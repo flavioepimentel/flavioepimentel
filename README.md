@@ -29,3 +29,5 @@ Some of the technologies that I've been working with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=blue-green)
