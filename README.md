@@ -20,8 +20,8 @@ Some of the technologies that I've been working with:
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue&exclude_repo=jupyter-project&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&count_private=true&show_icons=true)
 
 ##  👨‍💻 About Me
 
