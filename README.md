@@ -25,7 +25,7 @@ Some of the technologies that I've been working with:
 
 ##  👨‍💻 About Me
 
-🕵️‍♂️ I consider myself a curious and questioning person and always keep curious.
+🕵️‍♂️ I consider myself a questioning person and try be always curious.
 
 👨‍🎓 Production Engineer Degree.
   
@@ -33,7 +33,7 @@ Some of the technologies that I've been working with:
 
 🎸 Love play my guitar 
 
-🏃🏻  Do som outdoor exercise
+🏃🏻  Do some outdoor exercise
 
 👾  And PLAY vídeo games, of course.
 
