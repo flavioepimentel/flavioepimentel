@@ -19,10 +19,6 @@ Some of the technologies that I've been working with:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioepimentel&theme=white-blue&layout=compact)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=flavioepimentel&count_private=true&show_icons=true)
-
 ##  👨‍💻 About Me
 
 🕵️‍♂️ I consider myself a questioning person and try be always curious.
