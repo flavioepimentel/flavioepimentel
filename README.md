@@ -17,6 +17,14 @@ Some of the technologies that I've been working with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat&logo=streamlit&logoColor=white&color=%23FF4B4B)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=flat&logo=pandas&logoColor=white&color=%23150458)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=flat&logo=numpy&logoColor=white&color=%23013243)
+![SciKitLearn](https://img.shields.io/badge/SciKitLearn-white?style=flat&logo=scikitlearn&logoColor=white&color=%23F7931E)
+![AppScript](https://img.shields.io/badge/Google_AppScript-white?style=flat&logo=googleappsscript&logoColor=white&color=%234285F4)
+![Sci-Py](https://img.shields.io/badge/SciPy-white?style=flat&logo=scipy&logoColor=white&color=%238CAAE6%20)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-white?style=flat&logo=githubpages&logoColor=white&color=%23222222)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-white?style=flat&logo=githubactions&logoColor=white&color=%232088FF)
 
 
 ##  👨‍💻 About Me
