@@ -3,7 +3,6 @@
 Some of the technologies that I've been working with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -25,7 +24,7 @@ Some of the technologies that I've been working with:
 ![Sci-Py](https://img.shields.io/badge/SciPy-white?style=flat&logo=scipy&logoColor=white&color=%238CAAE6%20)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-white?style=flat&logo=githubpages&logoColor=white&color=%23222222)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-white?style=flat&logo=githubactions&logoColor=white&color=%232088FF)
-
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity)
 
 ##  👨‍💻 About Me
 
