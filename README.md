@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Olá,+mundo!+👋;+Eu+sou+o+Flávio+Pimentel.;+Engenheiro+de+Produção+turned+Dev.;+Transformando+dados+em+soluções.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Olá,+mundo!+👋;+Eu+sou+o+Flávio+Pimentel.;+Engenheiro+de+Produção+turned+Dev.;+_Transformando+dados+em+soluções.">
 </div>
 
 <p align="center">
