@@ -21,11 +21,11 @@
 
 ### 🚀 Sobre Mim
 
-🕵️‍♂️ **Curioso por essência e questionador por natureza:** Gosto de entender como as engrenagens funcionam por trás dos sistemas e dos processos. Minha jornada começou na **Engenharia de Produção**[cite: 1] e evoluiu para o desenvolvimento de software e análise de dados, unindo visão estratégica de negócios com código limpo e automação inteligente.
+🕵️‍♂️ **Curioso por essência e questionador por natureza:** Gosto de entender como as engrenagens funcionam por trás dos sistemas e dos processos. Minha jornada começou na **Engenharia de Produção** e evoluiu para o desenvolvimento de software e análise de dados, unindo visão estratégica de negócios com código limpo e automação inteligente.
 
 💼 Atualmente atuo como **Analista de Sistemas**, focando em parametrizações, arquitetura de soluções e no desenvolvimento de scripts/automações em Python (além de ecossistemas web e SQL) que reduzem drasticamente tarefas manuais repetitivas e trazem eficiência operacional real para as empresas.
 
-🎓 Sempre em busca de evolução contínua: cursando Técnico em Análise e Desenvolvimento de Sistemas no SENAI[cite: 1] e colecionando experiências em projetos, mentorias voluntárias e hackathons.
+🎓 Sempre em busca de evolução contínua: cursando Técnico em Análise e Desenvolvimento de Sistemas no SENAI e colecionando experiências em projetos, mentorias voluntárias e hackathons.
 
 ---
 
@@ -60,12 +60,14 @@
 
 Quando não estou estruturando automações, analisando dados ou depurando código, você provavelmente vai me encontrar:
 
-* 🎸 Tocando meu violão[cite: 1].
-* 🏃🏻 Praticando alguns exercícios ao ar livre[cite: 1].
-* 👾 Jogando um bom videogame (claro!)[cite: 1].
-* 💡 Participando de eventos de empreendedorismo, mentorias e *Hackathons*[cite: 2].
+* 🎸 Tocando meu violão.
+* 🏃🏻 Praticando alguns exercícios ao ar livre.
+* 👾 Jogando um bom videogame (claro!).
+* 🎧 Ouvindo um podcast, documentário ou audiobook
+* 💡 Participando de eventos de empreendedorismo, mentorias e *Hackathons*.
+* 📖 Lendo alguma coisa.
 
 ---
 <div align="center">
-  <i>"Transformando complexidade em eficiência, uma linha de código por vez."</i> 🚀
+  <i>"Grandes coisas em termos de negócios nunca são feitas por uma única pessoa. São feitas por uma equipe de pessoas." — Steve Jobs</i> 🚀
 </div>
