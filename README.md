@@ -5,7 +5,7 @@
   </picture>
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=640&lines=Olá,+mundo!+👋_;+Eu+sou+o+Flávio+Pimentel._;+Eng.+de+Produção+na+fábrica+de+dados+🏭_;+Dado+bruto+entra,+decisão+sai._">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=740&lines=Olá,+mundo!+👋_;+Eu+sou+o+Flávio+Pimentel._;+Eng.+de+Produção+na+fábrica+de+dados+🏭_;+Dado+bruto+entra,+decisão+sai._">
 </div>
 
 
