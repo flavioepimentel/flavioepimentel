@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=640&lines=Olá,+mundo!+👋_;+Eu+sou+o+Flávio+Pimentel._;+Eng.+de+Produção+na+fábrica+de+dados+🏭_;+Dado+bruto+entra,+decisão+sai._">
-</div>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/fabrica-dark.svg">
     <img src="assets/fabrica-light.svg" width="100%" alt="Fábrica de dados: caixas de dados brutos passam por inspeção, prensa SQL, braço robótico Python e painel de indicadores até virarem resultados.">
   </picture>
 </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=640&lines=Olá,+mundo!+👋_;+Eu+sou+o+Flávio+Pimentel._;+Eng.+de+Produção+na+fábrica+de+dados+🏭_;+Dado+bruto+entra,+decisão+sai._">
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/flavioepimentel/">
